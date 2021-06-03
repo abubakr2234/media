@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;400&display=swap');
+
+.media {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.m1{
+    padding-left: 120px;
+    height: 48px;
+    width: 252px;
+    color: #141E2A;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 48px;
+}
+
+.esg {
+       
+    padding: 10px;
+    flex: 50%;
+    font-family: 'Varela Round', sans-serif;
+    height: 366px;
+    width: 680px;
+    padding-top: 233px;
+    padding-left: 30px;
+    padding-bottom: 433px;
+}
+.esg-2 {
+       
+    padding: 10px;
+    flex: 50%;
+    flex-direction: column;
+    padding-top: 297px;
+    padding-left: 300px;
+    padding-bottom: 900px;
+    padding-right: 201px;
+}
+h2 {
+
+    color: #141E2A;
+    font-family: "P22 Underground";
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 36px;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: #141E2A;
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 0.4px;
+    line-height: 28px;
+}
+
+button {
+    box-sizing: border-box;
+    height: 52px;
+    width: 160px;
+    border: 2px solid #A8774F;
+    color: #A8774F;
+}
